@@ -74,5 +74,5 @@
 1. **Ascetic**: one who lives a simple life, devoid of worldly pleasures, similar to a monk.
 
 
-**Total Root Words**: 22
+**Total Root Words**: 22<br>
 **Total Words Learnt**: 28
